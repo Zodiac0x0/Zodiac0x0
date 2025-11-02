@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zodiac From Egypt, I am 16 years</h1>
+<h1 align="center">Hi 👋, I'm Zodiac</h1>
 <h3 align="center">🛡️ Bug Hunter | 🛠️ Tool Creator | 💻 Code Wizard</h3>
 
 <p align="center">
