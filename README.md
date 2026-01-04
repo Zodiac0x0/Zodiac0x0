@@ -11,14 +11,14 @@
 - 🔍 Passionate about **cybersecurity, bug bounty**, and automating everything.
 - 🧰 I build **custom tools** to make hacking smarter and faster.
 - 🌱 Always learning new tricks, testing boundaries, and digging deeper.
-- 💡 Inspiring **Red Teamer**
+- 💡 Inspiring **Red Teamer** and **Malware Development**
 
 ---
 
 ### 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,c,docker,linux,c++,git,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,docker,linux,cpp,git,bash,vscode" />
 </p>
 
 ---
