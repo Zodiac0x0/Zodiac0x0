@@ -18,7 +18,7 @@
 ### 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,c,docker,linux,php,git,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,docker,linux,c++,git,bash,vscode" />
 </p>
 
 ---
