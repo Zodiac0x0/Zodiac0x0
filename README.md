@@ -2,7 +2,7 @@
 <h3 align="center">🛡️ Bug Hunter | 🛠️ Tool Creator | 💻 Code Wizard</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hacking+the+Planet...;Writing+Tools+for+Hackers;Python+%7C+Go+%7C+C+%7C+Docker+%7C+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hack+the+Planet...;Writing+Tools+for+Hackers;Python+%7C+Go+%7C+C+%7C+Docker+%7C+Linux" alt="Typing SVG" />
 </p>
 
 ---
